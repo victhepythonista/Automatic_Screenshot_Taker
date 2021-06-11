@@ -19,12 +19,12 @@ ENJOY
 
 
 
-import  datetime
+
 import  mss
 import  subprocess
 import pyarmor
 import os
-import random,time, datetime,shutil,random
+import random,time, datetime,shutil
 duration_between_shots = 10
 
 user  = os.getlogin()
